@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*%
+%TF.CreationDate,2024-11-27T12:45:58+01:00*%
+%TF.ProjectId,Caffeinated-AFTONSPARV,43616666-6569-46e6-9174-65642d414654,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2024-11-27 12:45:58*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,0.900000X1.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,SW1*%
+X30650000Y5200000D03*
+X30650000Y11000000D03*
+X34350000Y5200000D03*
+X34350000Y11000000D03*
+%TD*%
+M02*
